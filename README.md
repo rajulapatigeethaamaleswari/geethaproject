@@ -38,13 +38,14 @@ This is a web based application developed for health related telugu based websit
 
 ### services -
 
-![fig3](https://user-images.githubusercontent.com/118436077/208358055-15766839-2331-4a29-bf1f-23e5d6d43264.png)
+![fig11](https://user-images.githubusercontent.com/118436077/208363090-733d0334-d421-426b-a57c-18f742db5e1e.png)
 
 
 
 
 ### gallery -
-![fig4](https://user-images.githubusercontent.com/118436077/208358386-da86dd62-f039-4cc4-a810-70d9d867c2c8.png)
+
+![fig12](https://user-images.githubusercontent.com/118436077/208363269-e23f556c-e7b3-4d02-a1d7-32a325dc0101.png)
 
 
 

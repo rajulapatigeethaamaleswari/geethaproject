@@ -78,6 +78,15 @@ This is a web based application developed for health related telugu based websit
 ![fig7](https://user-images.githubusercontent.com/118436077/208359556-34822a9d-ab75-4a95-b8eb-6b91e3593dcf.png)
 
 
+### static web apps -
+
+![fig9](https://user-images.githubusercontent.com/118436077/208362068-fd891713-5db2-496c-a3be-98ab04520b3e.png)
+
+
+### Azure health bot -
+
+![fig10](https://user-images.githubusercontent.com/118436077/208362561-344387fd-c747-4baa-8af6-353683d33eff.png)
+
 
 
 ## Tech stack 💻

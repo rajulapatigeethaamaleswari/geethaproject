@@ -53,7 +53,8 @@ This is a web based application developed for health related telugu based websit
 
 ### team -
 
-![fig5](https://user-images.githubusercontent.com/118436077/208358816-cb092941-3e0a-4c07-8200-af39ffae2aa5.png)
+![image](https://user-images.githubusercontent.com/118436077/208363619-4e5d6128-824d-4e28-a411-294d013b18ea.png)
+
 
 
 
@@ -74,9 +75,10 @@ This is a web based application developed for health related telugu based websit
 
 
 ### contact -
+![fig14](https://user-images.githubusercontent.com/118436077/208363866-bca88611-c0c0-4e0f-9d15-66c1b45981df.png)
 
 
-![fig7](https://user-images.githubusercontent.com/118436077/208359556-34822a9d-ab75-4a95-b8eb-6b91e3593dcf.png)
+
 
 
 ### static web apps -

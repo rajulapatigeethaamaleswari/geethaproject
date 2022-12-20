@@ -9,7 +9,7 @@ This is a web based application developed for health related health based websit
 
 *Project Link* - https://kind-ocean-096f22e00.2.azurestaticapps.net/
 
-*project Demo video link* -
+*project Demo video link* - https://youtu.be/nNHurpSd5T0
 
 ## Features and Functionalities 😃
 
